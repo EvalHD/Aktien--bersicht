@@ -1,1 +1,1 @@
-# Aktien--bersicht
+# Aktien-übersicht
